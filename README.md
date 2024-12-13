@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="225" src="https://media1.tenor.com/m/X22pNlJZ2_MAAAAC/persona-5-persona-5-joker.gif"  />
+<img align="right" height="205" src="https://media1.tenor.com/m/X22pNlJZ2_MAAAAC/persona-5-persona-5-joker.gif"  />
 
 ###
 
