@@ -8,12 +8,6 @@
   <a href="https://discordapp.com/users/1120971951880548372" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.twitch.tv/sunny_fgc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Sunny_FGC" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
@@ -32,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from California, U.S.A<br>🇵🇭 / 🇺🇸<br><br>Aspiring Web/Game Developer!<br><br>- 21 Years Old<br>- He/They<br>- 📚 I'm currently learning JavaScript, Python + GDScript, and much more...<br></p>
+<p align="left">I'm from California, U.S.<br>🇵🇭 / 🇺🇸<br><br>Aspiring Software/Website/Game Developer!<br><br>- 21 Years Old<br>- He/They<br>- 📚 I'm currently a Senior year student at California State University, Fresno.<br></p>
 
 ###
 
