@@ -32,15 +32,11 @@
 
 ###
 
-<p align="left">I'm from California, U.S.A<br>🇵🇭 / 🇺🇸<br><br>Aspiring Web/Game Developer!<br><br>- 20 Years Old<br>- He/Him<br>- 📚 I'm currently learning JavaScript, Python + GDScript, and much more...<br>- ⚡ Hobbies: Playing fighting games competitively, fitness,  and digital drawing!</p>
+<p align="left">I'm from California, U.S.A<br>🇵🇭 / 🇺🇸<br><br>Aspiring Web/Game Developer!<br><br>- 21 Years Old<br>- He/They<br>- 📚 I'm currently learning JavaScript, Python + GDScript, and much more...<br></p>
 
 ###
 
 <img align="right" height="205" src="https://media1.tenor.com/m/X22pNlJZ2_MAAAAC/persona-5-persona-5-joker.gif"  />
-
-###
-
-<p align="left">FAVORITE STORY GAMES:<br>- Persona/SMT/Metaphor<br>- Chrono Trigger<br>- Professor Layton<br>- Ace Attorney<br>- Trauma Center</p>
 
 ###
 
