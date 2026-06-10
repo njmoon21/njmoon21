@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Heyo! I'm Nathan Luna 👋</h1>
+<h1 align="center">Hello! I'm Nathan 👋</h1>
 
 ###
 
